@@ -29,3 +29,5 @@ export default {
     width: 60px;
   }
 </style>
+
+
